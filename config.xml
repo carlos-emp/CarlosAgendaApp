@@ -2,10 +2,10 @@
 <widget id="com.phonegap.helloworld" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Agenda</name>
     <description>
-        Aplicación de agenda ligada a intellibanks
+        Aplicacion de agenda ligada a intellibanks
     </description>
     <author email="carlos.vazquez@empowerlabs.com" href="http://phonegap.com">
-        Carlos Octavio Vázquez Velasco
+        Carlos Octavio Vazquez Velasco
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
